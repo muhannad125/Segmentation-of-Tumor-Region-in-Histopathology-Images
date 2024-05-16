@@ -4,7 +4,7 @@
 <!-- TABLE OF CONTENTS -->
   <ol>
     <li>
-      <a href="#About The Project">About The Project</a>
+      <a href="#About the Project">About The Project</a>
     </li>
     <li>
       <a href="#Proposed Pipeline">Proposed Pipeline</a>
