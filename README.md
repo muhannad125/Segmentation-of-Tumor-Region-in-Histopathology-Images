@@ -1,6 +1,28 @@
-# Segmentation of Tumor Region in Histopathology Images
+<a name="readme-top"></a>
+
+## Table of Contents
+<!-- TABLE OF CONTENTS -->
+  <ol>
+    <li>
+      <a href="#About The Project">About The Project</a>
+    </li>
+    <li>
+      <a href="#Proposed Pipeline">Proposed Pipeline</a>
+    </li>
+    <li><a href="#Handling the Imbalance in the Training Dataset">Handling the Imbalance in the Training Dataset</a></li>
+    <li><a href="#Results">Results</a>
+      <ul>
+        <li><a href="# Evaluation of CNN Performance">Evaluation of CNN Performance</a></li>
+        <li><a href="# Evaluation of U-Net Performance">Evaluation of U-Net Performance</a></li>
+      </ul>
+    </li>
+    <li><a href="#Examples">Examples</a>
+  </ol>
+
+## About the Project
 
 This project examines the segmentation of tumor patches within whole-slide images (WSI) and presents the findings from 3 different modeling approaches; CNN and ResNet as binary classifiers, and U-net architecture for segmentation tasks. While the U-net design creates a binary mask characterizing the tumor locations, the CNN architecture provides a binary output showing the presence or absence of tumors in a specific patch.
+
 
 ## Proposed Pipeline
 <figure style="display: block; text-align: center;">
