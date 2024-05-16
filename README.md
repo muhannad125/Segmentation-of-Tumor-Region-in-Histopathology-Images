@@ -4,16 +4,16 @@
 <!-- TABLE OF CONTENTS -->
   <ol>
     <li>
-      <a href="#About the Project">About The Project</a>
+      <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#Proposed Pipeline">Proposed Pipeline</a>
+      <a href="#proposed-pipeline">Proposed Pipeline</a>
     </li>
-    <li><a href="#Handling the Imbalance in the Training Dataset">Handling the Imbalance in the Training Dataset</a></li>
+    <li><a href="#handling-the-imbalance-in-the-training-dataset">Handling the Imbalance in the Training Dataset</a></li>
     <li><a href="#Results">Results</a>
       <ul>
-        <li><a href="# Evaluation of CNN Performance">Evaluation of CNN Performance</a></li>
-        <li><a href="# Evaluation of U-Net Performance">Evaluation of U-Net Performance</a></li>
+        <li><a href="#Evaluation-of-CNN-Performance">Evaluation of CNN Performance</a></li>
+        <li><a href="#Evaluation-of-U-Net-Performance">Evaluation of U-Net Performance</a></li>
       </ul>
     </li>
     <li><a href="#Examples">Examples</a>
