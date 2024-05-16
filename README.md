@@ -176,7 +176,7 @@ Also, Figure 3.5 shows that when training U-Net on 45 WSIs with 50% benign and 5
 
 Muhannad Tuameh - muhannadtumah@gmail.com
 
-Emre Arslanoğlu - emre.arslanoglu@std.yildiz.edu.tr
+Emre Arslanoğlu - emrears1965@gmail.com
 
 Project Link: [https://github.com/muhannad125/cancer_segmentation](https://github.com/muhannad125/cancer_segmentation)
 
