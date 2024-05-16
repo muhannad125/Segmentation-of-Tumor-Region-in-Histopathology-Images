@@ -61,7 +61,7 @@ To mitigate the effects of this class imbalance, several techniques is used for 
 The CNN and U-Net models were trained on 2 different amount of data: 20 WSIs and 45 WSIs. In this case, it is an expected result that the success will increase with the increase in the number of data. However, the increase in the amount of data made the test and train processes more recourse consuming in terms of time and hardware.
 
 
-### Evaluation of CNN Architecture Performance
+### Evaluation of CNN Performance
 <figure style="display: block; text-align: center;">
   <img  src="https://github.com/muhannad125/cancer_segmentation/assets/61150919/3d856356-e2f1-491e-9d8d-1470e0b5b9e1" alt="Image" style="display: block; margin: 0 auto;width: 75%;">
   <br>
